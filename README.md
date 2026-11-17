@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Kiesha Paul 👋
 
-<!--
-**kiesha8185-grc/kiesha8185-grc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Governance, Risk & Compliance (GRC) professional** | CBCP | Remote, Florida
 
-Here are some ideas to get you started:
+I help make risk management, audit, and compliance a continuous part of how organizations run, across financial services, Big Four cyber consulting, education technology, and higher education.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work on
+- SOC 2 audit readiness, evidence collection, and control owner follow-up
+- Risk assessments, risk registers, and remediation tracking to closure
+- Business continuity and disaster recovery (BC/DR) governance
+- Policy governance and AI-assisted control extraction
+
+### On GitHub
+I'm using AI coding tools to build lightweight control tests that pull evidence straight from system exports instead of relying on screenshots.
+
+📂 **[grc-control-tests](https://github.com/kiesha8185-grc/grc-control-tests)**: automated access-control checks mapped to SOC 2 and ISO 27001
+
+### Tools I use
+NAVEX (PolicyTech, Disclosure Management, EthicsPoint) · Fusion Risk Management · Docebo · Python · SQL · R · Power BI · Tableau
